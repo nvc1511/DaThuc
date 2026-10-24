@@ -2,6 +2,7 @@
 #include "DaThuc.h"
 #include <vector>
 using namespace std;
+//Chuong trinh khai bao cac phuong thuc cua Da Thuc
 DaThuc::DaThuc()
 {
 	iBacDaThuc = 0;
